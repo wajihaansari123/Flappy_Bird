@@ -15,7 +15,7 @@ Challenge yourself to beat your own high score and collect as many coins as poss
 
 So, are you ready to embark on an unforgettable adventure with the adorable pink bird? Lace up your wings, prepare your space bar tapping skills, and let the soaring commence! Experience the joy of navigating through a whimsical world of pipes and claim your rightful place as the Flappy Bird Adventure champion!
 
-![Start Screen]()
-![Play Screen]()
-![Crashed Screen]()
-![if it fell down Screen]()
+![Start Screen](https://raw.githubusercontent.com/wajihaansari123/Flappy_Bird/main/f1.PNG)
+![Play Screen](https://raw.githubusercontent.com/wajihaansari123/Flappy_Bird/main/f2.PNG)
+![Crashed Screen](https://raw.githubusercontent.com/wajihaansari123/Flappy_Bird/main/f3.PNG)
+
